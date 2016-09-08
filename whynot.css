@@ -1,0 +1,26 @@
+.memes1 {
+	font-family: "Comic sans MS", cursive, sans-serif
+	
+
+}
+
+.memes2 {
+	font-family: Impact, Charcoal, sans-serif
+
+}
+body {
+	background-color: yellow; 
+}
+
+.container1 {
+	width:500;
+	margin:auto;
+	position:relative;
+	left:300px;
+	border: 3px solid black;
+	padding: 20px 20px 20px 35px; 
+
+	
+	
+
+}
